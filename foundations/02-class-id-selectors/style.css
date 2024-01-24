@@ -1,0 +1,13 @@
+.text{
+    background-color: rgb(255,132, 166);
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+#drugi{
+    color: blue;
+    font-size: 36px;
+}
+#treci{
+    font-size: 24px;
+    background-color: green;
+    font-weight: bold;
+}
